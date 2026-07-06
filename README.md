@@ -226,7 +226,7 @@ This project was built to practice:
 
 **Your Name**
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/MIDHUNcode
 
 ---
 
